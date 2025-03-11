@@ -1,0 +1,248 @@
+{
+  "clientes": [
+    [
+      {
+        "cteId": 1,
+        "cteRfc": "MAG970115JS0"
+      },
+      {
+        "cteId": 2,
+        "cteRfc": "MSA071001C17"
+      },
+      {
+        "cteId": 3,
+        "cteRfc": "MCA750310LHA"
+      },
+      {
+        "cteId": 4,
+        "cteRfc": "MMP751222IM0"
+      },
+      {
+        "cteId": 5,
+        "cteRfc": "AVE160901CI7"
+      },
+      {
+        "cteId": 6,
+        "cteRfc": "MPE900801AG9"
+      },
+      {
+        "cteId": 7,
+        "cteRfc": "SAP871211JK2"
+      },
+      {
+        "cteId": 8,
+        "cteRfc": "MRO0710014M4"
+      },
+      {
+        "cteId": 9,
+        "cteRfc": "MJU0712054N2"
+      },
+      {
+        "cteId": 10,
+        "cteRfc": "MSA850204U51"
+      },
+      {
+        "cteId": 11,
+        "cteRfc": "MPA8503161D1"
+      },
+      {
+        "cteId": 12,
+        "cteRfc": "MFR971117KU1"
+      },
+      {
+        "cteId": 13,
+        "cteRfc": "MSJ190101938"
+      }
+    ]
+  ],
+  "proveedores": [
+    [
+      {
+        "proId": 1,
+        "proRfc": "ACC190607TJ7"
+      },
+      {
+        "proId": 2,
+        "proRfc": "AAN141112P11"
+      },
+      {
+        "proId": 3,
+        "proRfc": "ACO041026159"
+      },
+      {
+        "proId": 4,
+        "proRfc": "AAAJ810403M99"
+      },
+      {
+        "proId": 5,
+        "proRfc": "AARR7502077P2"
+      },
+      {
+        "proId": 6,
+        "proRfc": "ABO130520M78"
+      },
+      {
+        "proId": 7,
+        "proRfc": "ACT190513RGA"
+      },
+      {
+        "proId": 8,
+        "proRfc": "AAZD611205L9A"
+      },
+      {
+        "proId": 9,
+        "proRfc": "ABA9706029X2"
+      }
+    ]
+  ],
+  "ejercicios": [
+    [
+      {
+        "docEjercicio": "2022"
+      },
+      {
+        "docEjercicio": "2023"
+      }
+    ]
+  ],
+  "meses": [
+    [
+      {
+        "mesId": 1,
+        "mesNombre": "Junio"
+      },
+      {
+        "mesId": 2,
+        "mesNombre": "Diciembre"
+      },
+      {
+        "mesId": 3,
+        "mesNombre": "Enero"
+      },
+      {
+        "mesId": 4,
+        "mesNombre": "Julio"
+      },
+      {
+        "mesId": 5,
+        "mesNombre": "Mayo"
+      },
+      {
+        "mesId": 6,
+        "mesNombre": "Agosto"
+      },
+      {
+        "mesId": 7,
+        "mesNombre": "Septiembre"
+      },
+      {
+        "mesId": 8,
+        "mesNombre": "Noviembre"
+      },
+      {
+        "mesId": 9,
+        "mesNombre": "Anual"
+      },
+      {
+        "mesId": 10,
+        "mesNombre": "Octubre"
+      },
+      {
+        "mesId": 11,
+        "mesNombre": "Abril"
+      },
+      {
+        "mesId": 12,
+        "mesNombre": "Marzo"
+      },
+      {
+        "mesId": 13,
+        "mesNombre": "Febrero"
+      }
+    ]
+  ],
+  "tareas": [
+    [
+      {
+        "tarId": 1,
+        "tarNombre": "CIF"
+      },
+      {
+        "tarId": 2,
+        "tarNombre": "Acuse ISR"
+      },
+      {
+        "tarId": 3,
+        "tarNombre": "Pago IVA"
+      },
+      {
+        "tarId": 4,
+        "tarNombre": "Cuotas IMSS"
+      },
+      {
+        "tarId": 5,
+        "tarNombre": "Declaracion IVA"
+      },
+      {
+        "tarId": 6,
+        "tarNombre": "EM"
+      },
+      {
+        "tarId": 7,
+        "tarNombre": "Declaracion ISR"
+      },
+      {
+        "tarId": 8,
+        "tarNombre": "ICSOE"
+      },
+      {
+        "tarId": 9,
+        "tarNombre": "REPSE"
+      },
+      {
+        "tarId": 10,
+        "tarNombre": "Pago IMSS"
+      },
+      {
+        "tarId": 11,
+        "tarNombre": "Op SAT"
+      },
+      {
+        "tarId": 12,
+        "tarNombre": "Acuse IVA"
+      },
+      {
+        "tarId": 13,
+        "tarNombre": "DAP"
+      },
+      {
+        "tarId": 14,
+        "tarNombre": "Op IMSS"
+      },
+      {
+        "tarId": 15,
+        "tarNombre": "Listado de Personal"
+      },
+      {
+        "tarId": 16,
+        "tarNombre": "Edo Cta Fonacot"
+      },
+      {
+        "tarId": 17,
+        "tarNombre": "CFDI"
+      },
+      {
+        "tarId": 18,
+        "tarNombre": "Op INFONAVIT"
+      },
+      {
+        "tarId": 19,
+        "tarNombre": "SISUB"
+      },
+      {
+        "tarId": 20,
+        "tarNombre": "SUA"
+      }
+    ]
+  ]
+}
